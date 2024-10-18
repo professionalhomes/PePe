@@ -1,0 +1,21 @@
+{
+  "type": "commonjs",
+  "dependencies": {
+    "@helia/unixfs": "^3.0.7",
+    "blockstore-core": "^5.0.0",
+    "cors": "^2.8.5",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.2",
+    "express": "^5.0.0",
+    "fs": "^0.0.1-security",
+    "hardhat": "^2.3.3",
+    "helia": "^4.2.5",
+    "multiformats": "^13.2.2",
+    "path": "^0.12.7",
+    "sharp": "^0.33.5"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0"
+  }
+}

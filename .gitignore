@@ -1,0 +1,8 @@
+node_modules
+.env
+/cards/images
+/cards/metadata
+/cards/wolves
+.DS_Store
+/cards/.DS_Store
+/artifacts

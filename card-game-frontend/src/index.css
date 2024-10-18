@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: 'Cinzel', serif; /* A decorative serif font resembling the card's style */
+  background-color: #f0f0e8; /* A light background color to complement the card */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}

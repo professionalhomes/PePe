@@ -1,0 +1,266 @@
+Name	Rarity	Ability	Power	Defense	Image
+Crypto CEX Trader	Uncommon	Force your opponent to discard 1 card of their choice from their hand. If they cannot, they lose 5 points.	5	7	1.webp
+Bitcoin Billionaire	Rare	Double your score for the next 2 turns. If you lose a turn, your score resets to the original value.	10	5	2.webp
+Crypto Trader	Uncommon	Draw an extra card from your deck this turn. If the card is of higher rarity than your opponent's next card, gain 10 points.	5	6	3.webp
+Frog On The Moon 	Rare	Double the effect of your next card. If the card is blocked, deal 5 damage to an opponent's card.	10	5	4.webp
+Wildlife Photographer	Uncommon	Reveal your opponent's next card before they play it. If it has more power than your next card, draw one card.	6	8	5.webp
+Mountain Man	Rare	Gain +5 defense points against all environmental-themed attacks. If none are played, gain 10 points.	10	9	6.webp
+Living in a Van	Common	Draw an extra card at the start of your next turn. If the drawn card is of the same rarity, gain 5 points.	8	4	7.webp
+Survivor	Rare	Negate the effect of an opponent's attack card for one turn. If you win that turn, gain 5 defense.	6	7	8.webp
+Broke Trader	Common	Discard one of your own cards to draw two new ones. If both new cards have lower defense than the discarded one, lose 5 points.	8	6	9.webp
+FOMO Monkey	Uncommon	Force both players to draw two additional cards. Skip your next turn and lose 3 defense if your new cards are weaker than your opponent's.	5	5	10.webp
+Bitcoin Wave Surfer	Rare	Double your score for the next two rounds, but skip your card draw in the next round and lose 5 defense.	8	8	11.webp
+Wrecked by the Wave	Common	Lose half your points immediately, but draw two cards in the next round. Gain 3 defense if one of the drawn cards is stronger.	8	6	12.webp
+Degen Trader	Uncommon	Swap your hand with your opponent's for one turn. If the swapped hand contains higher defense cards, lose 5 points.	4	7	13.webp
+Monkey Business	Rare	Force your opponent to skip their next draw phase. If they have no cards to draw, gain 10 defense.	8	5	14.webp
+Alpha Friend	Uncommon	Reveal the top three cards of your deck and choose one to add to your hand. If it's a Rare or higher card, gain 10 defense.	6	7	15.webp
+All Time High	Epic	Double your current points and draw an additional card. If the card has less defense than your average, lose 5 points.	8	6	16.webp
+Light Saber Battle	Epic	Unleash the force. Disable your opponent's highest-powered card for one turn. Gain 5 defense if their defense is less than 8.	6	9	17.webp
+Evading the Bears	Uncommon	Negate the effect of your opponent's attack card for the next turn. If successful, gain 5 defense.	4	9	18.webp
+Riding the Bull	Rare	Increase your points by 20% for the next three turns. Lose 5 defense if any card in your hand has less than 5 defense.	6	8	19.webp
+Riding the Moon Rocket	Epic	Triple your points for the next turn, but discard half your hand afterward. Each discarded card reduces your defense by 1.	9	6	20.webp
+Angel Wings	Rare	Prevent any damage to your points for the next two turns. If the opponent attacks and fails, gain 5 defense.	6	8	21.webp
+Back From the Future	Legendary	Time travel. Reverse the last move made by your opponent. Gain 10 defense if the move was a power play.	6	8	22.webp
+The Dark Knight	Rare	Immune to all attacks for one round. Gain 10 points if no cards can bypass this defense.	6	8	23.webp
+Impressionist Painter	Uncommon	Create a copy of one opponent's card. The copied card's power is halved but gains 5 defense.	4	6	24.webp
+Squiggle Time	Common	Shuffle your hand and redraw. Gain 5 points if the total defense of the new hand is higher than the old one.	8	6	25.webp
+PEW PEW Mafia	Rare	Attack two random opponent cards. Each attacked card loses 15 points if its defense is lower than 8.	6	7	26.webp
+The WolfPac	Epic	Summon two WolfPac members. Each adds 20 points to your total score and provides 3 defense to your next card.	6	9	27.webp
+Pixel World	Common	Pixelate an opponent's card, reducing its power by 10 points. If the card’s defense is less than 5, remove it from play.	6	5	28.webp
+Golden Sheep	Rare	Convert one opponent's card into a golden sheep, rendering it powerless for one turn. If it has more defense than 5, gain 10 points.	6	7	29.webp
+Fantasy Player	Uncommon	Draw an extra card. If it's a fantasy card, gain 10 points and 3 defense.	5	8	30.webp
+Night Owl	Rare	Play this card at night for double points. Gain 15 points and 5 defense.	10	7	31.webp
+Bitcoin Surgeon	Epic	Perform surgery on a damaged card. Restore 20 points to any one of your cards and add 3 defense.	6	9	32.webp
+Cowboy	Uncommon	Lasso an opponent's card, preventing it from being played next turn. Gain 5 defense if the card is an Epic or higher.	4	8	33.webp
+WOW Pro	Epic	Double the power of any fantasy or gaming-related card in your hand for one turn. If the card wins, gain 5 defense.	10	7	34.webp
+Disco Dancer	Common	Distract an opponent, reducing their next card's power by 10 points. Gain 3 defense if the card's power falls below 5.	6	5	35.webp
+Micelio	Rare	Network underground. Gain control of one of your opponent's cards for one turn. Gain 5 defense if the controlled card has more than 5 defense.	6	7	36.webp
+Food Fluencer	Uncommon	Boost the power of one of your food or lifestyle cards by 15 points. If it reaches 20 points, gain 3 defense.	4	7	37.webp
+Whitehouse Correspondent	Rare	Gain insider information. Draw two cards and keep the one with the highest power. If the kept card has higher defense than the opponent’s next card, gain 10 points.	8	6	38.webp
+Arabic Prince	Epic	Spend wealth to gain power. Double the points of any wealth-related card in your hand. If the card has higher defense, gain 5 points.	10	8	39.webp
+Bitcoin Farmer	Common	Harvest 5 points for every Bitcoin-related card in your hand. Gain 3 defense if you have more than two.	6	5	40.webp
+Broke and Homeless	Common	Lose 10 points, but draw an additional card as a comeback opportunity. Gain 3 defense if the card is Rare or higher.	8	6	41.webp
+Michelangelo's Painting	Rare	Restore 15 points to any art or culture-related card. Gain 5 defense if the card is a Legendary.	6	6	42.webp
+Satoshi Nakamoto	Legendary	Reveal the truth. Select any one card from the deck and add it to your hand. If it's an Epic or higher, gain 10 defense.	9	8	43.webp
+Tornado Cash	Epic	Mix up the battlefield. Shuffle all cards in play and redistribute them randomly. Gain 5 defense if an opponent’s card is removed.	6	7	44.webp
+Dante's Paradise	Legendary	Ascend to glory. Gain 25 points and draw an additional card. Gain 5 defense if the card is a Rare or higher.	8	8	45.webp
+MIB	Epic	Flash the Neuralyzer. Opponent's last card played is returned to their hand. Gain 5 defense if that card is Rare or higher.	6	8	46.webp
+Samurai	Rare	Strike with honor. Increase your next card's power by 20 points and gain 5 defense.	6	7	47.webp
+Ninja	Rare	Stealth attack. Remove one of your opponent's cards from play for one turn. If successful, gain 5 defense.	6	6	48.webp
+PacWorld	Common	Consume and conquer. Gain 10 points for every 'Pac' or gaming-related card in your hand. Gain 3 defense if more than one card matches.	6	5	49.webp
+Archeologist Jones	Epic	Unearth secrets. Draw two cards and choose the one with the higher rarity. Gain 5 defense if the card is Legendary.	8	7	50.webp
+Basketball Star	Uncommon	Slam dunk. Gain 15 points and block an opponent's next move. Gain 5 defense if the block is successful.	4	8	51.webp
+Golf Champion	Common	Perfect swing. Add 10 points to your score. Gain 3 defense if your score surpasses your opponent's.	6	4	52.webp
+Queen's Knight	Rare	Defend the realm. Block one opponent's card for the next turn. Gain 5 defense if it's a Rare card.	6	7	53.webp
+WW2 Soldier	Rare	Call to arms. Increase all military-themed cards' power by 15 points. Gain 3 defense for every card boosted.	6	8	54.webp
+Modern Warfare Soldier	Uncommon	Deploy tactics. Draw an extra card if your opponent has more cards in hand than you. Gain 5 defense if the drawn card is a higher rarity.	5	6	55.webp
+Manga Character	Common	Unleash anime power. Boost your next card's power by 10 points. Gain 3 defense if the power boost wins a round.	6	5	56.webp
+Virtual Reality	Uncommon	Immerse and dominate. Opponent's next card's power is reduced by 15 points. Gain 3 defense if their card's power drops below 5.	4	7	57.webp
+Dog Walker	Common	Fetch an extra card from the deck. Gain 3 defense if the fetched card has more than 5 defense.	6	4	58.webp
+Flight Pioneer	Rare	Soar above. Gain 20 points and skip your opponent's next turn. Gain 5 defense if the opponent's next card is an Epic or higher.	6	8	59.webp
+The Kaiju are in Town	Epic	Unleash destruction. Double the power of your next monster-themed card. Gain 5 defense if the card's power exceeds 15.	10	6	60.webp
+Roman Emperor	Legendary	Rule with an iron fist. Gain control of your opponent's next move. Gain 10 defense if the controlled card has 8 defense or more.	6	9	61.webp
+Bitcoin Miner	Common	Mine for wealth. Gain 5 points for every Bitcoin-related card in play. Gain 3 defense if more than two cards match.	6	5	62.webp
+Cat Lover	Common	Cuddle up. Draw an extra card if you have an animal-themed card in play. Gain 3 defense if it's a Rare card.	8	5	63.webp
+Gold Skier	Uncommon	Glide to victory. Gain 15 points and prevent your opponent from drawing a new card. Gain 5 defense if they fail to draw.	5	6	64.webp
+Pro Cyclist	Uncommon	Pedal hard. Gain 15 points if you play another sports-related card next. Gain 3 defense if the card's power is over 8.	4	7	65.webp
+French Revolutionaire	Rare	Lead the charge. Swap one of your cards with an opponent's card of your choice. Gain 5 defense if the swapped card is a Rare or higher.	6	7	66.webp
+Cave Man	Common	Go back to basics. Gain 10 points and skip your opponent's next turn. Gain 3 defense if they cannot counter.	6	4	67.webp
+War of Independence	Rare	Fight for freedom. Double the power of any historical-themed card in play. Gain 5 defense if the card wins.	10	7	68.webp
+Roman Legionaire	Uncommon	March forward. Gain 10 points for each warrior or soldier-themed card in play. Gain 3 defense if more than one matches.	4	6	69.webp
+All Time Low	Rare	Reduce your opponent's points by half. If their defense is higher, lose 5 points.	6	8	70.webp
+Jurassic Park	Legendary	Release the dinosaurs. Destroy one of your opponent's cards permanently. Gain 10 defense if it's a Rare card or higher.	6	7	71.webp
+Mission Impossible	Epic	Complete the impossible. Draw two cards and choose the one with higher power. Gain 5 defense if the card's power is 10 or more.	8	7	72.webp
+Ballet Dancer	Common	Graceful movement. Gain 10 points and draw one additional card. Gain 3 defense if the new card is a Rare or higher.	8	5	73.webp
+WW2 Parachuter	Uncommon	Surprise attack. Swap one card from your hand with an opponent's card. Gain 5 defense if the new card has higher defense.	4	8	74.webp
+War Refugee	Rare	Survive and adapt. Gain 15 points and skip your opponent's next turn. Gain 5 defense if they cannot attack.	6	7	75.webp
+African Tribe Woman	Common	Strength of tradition. Gain 10 points if you play a culture-related card next. Gain 3 defense if the card is Rare or higher.	6	5	76.webp
+Oil Worker	Uncommon	Drill deep. Gain 20 points if you play an energy-related card next. Gain 3 defense if it wins the round.	4	6	77.webp
+Ship Captain	Rare	Command the seas. Gain control of your opponent's next move. Gain 5 defense if their card is defeated.	6	7	78.webp
+French Noble	Epic	Power and prestige. Double the power of your next card. Gain 5 defense if the card wins.	10	8	79.webp
+Dante Alighieri	Legendary	Journey through the divine. Draw three cards and choose one to keep. Gain 10 defense if the card is Epic or higher.	8	9	80.webp
+Broke and Delusional	Common	False hope. Gain 5 points but lose your next turn. Gain 3 defense if your total defense is higher than your opponent's.	6	5	81.webp
+New York Tourist	Common	City wanderer. Gain 10 points if you play another city-related card next. Gain 3 defense if the card is a Rare or higher.	6	4	82.webp
+Parisien	Common	Style and charm. Add 10 points to your score. Gain 3 defense if you surpass your opponent's total score.	6	5	83.webp
+London Tourist	Common	Foggy adventure. Draw one card if you play a weather-related card next. Gain 3 defense if it's a Rare or higher.	8	4	84.webp
+Berlin Tourist	Common	Historic journey. Gain 10 points for every history-related card in play. Gain 3 defense if more than one matches.	6	5	85.webp
+Rome Tourist	Common	Explore the ancient city. Draw an extra card if you play a historical figure card next. Gain 3 defense if it's Rare or higher.	8	4	86.webp
+The Medici Family	Legendary	Boost your influence. Gain control of one opponent's card for one turn. Gain 10 defense if it’s a Rare or higher.	6	8	87.webp
+Bitcoin Shower	Rare	Rain of wealth. Gain 25 points and prevent your opponent from playing their next card. Gain 5 defense if it succeeds.	6	7	88.webp
+Anarco Revolutionist	Epic	Overthrow the system. Swap your hand with your opponent's. Gain 5 defense if the new hand has higher defense.	6	9	89.webp
+Sand Worm Rider	Legendary	Master of the dunes. Double the power of any desert-related card in play. Gain 10 defense if it wins.	10	7	90.webp
+Lisbon Tourist	Common	Discover the city. Gain 10 points if you play a landmark-related card next. Gain 3 defense if it’s Rare or higher.	6	4	91.webp
+Fellowship of the Ring	Legendary	United we stand. Combine the power of all your cards for one powerful attack. Gain 10 defense if the attack wins.	6	9	92.webp
+School of Magic	Epic	Learn the arcane arts. Draw two cards and gain 20 points. Gain 5 defense if the combined power exceeds 15.	8	7	93.webp
+The Pharaoh	Legendary	Rule the ancient world. Gain control of your opponent's next two moves. Gain 10 defense if any move is blocked.	6	8	94.webp
+The Influencer	Rare	Shape opinions. Double the effect of your next social media-related card. Gain 5 defense if it’s a Rare or higher.	10	6	95.webp
+Sports Car Enthusiast	Common	Speed thrills. Gain 15 points and draw one additional card. Gain 3 defense if the new card is Rare or higher.	8	4	96.webp
+F16 Pilot	Epic	Supersonic strike. Gain 30 points and disable your opponent's next move. Gain 5 defense if their move is blocked.	6	8	97.webp
+F1 Pilot	Rare	Racing ahead. Gain 20 points and draw one additional card. Gain 5 defense if the new card has higher defense than 8.	8	7	98.webp
+MotoGP Pilot	Rare	High-speed chase. Gain 20 points and block an opponent's next move. Gain 5 defense if the block is successful.	6	7	99.webp
+MX Pilot	Common	Off-road challenge. Gain 15 points if you play a vehicle-related card next. Gain 3 defense if the next card is Rare or higher.	6	5	100.webp
+Underground Safehouse	Epic	Hidden refuge. Protect all your cards from opponent's attacks for one turn. Gain 5 defense if no cards are attacked.	6	9	101.webp
+Police Officer	Common	Law enforcement. Gain 10 points and prevent your opponent from drawing a new card. Gain 3 defense if the prevention is successful.	8	4	102.webp
+Drug Bust	Rare	Major operation. Remove one of your opponent's cards from play permanently. Gain 5 defense if the removed card is a Rare or higher.	6	6	103.webp
+The Chemical	Uncommon	Explosive reaction. Gain 15 points and draw an additional card. Gain 3 defense if the new card has 5 or more defense.	5	7	104.webp
+Radioactive Zone	Epic	Dangerous territory. Disable one of your opponent's cards for the rest of the game. Gain 5 defense if the disabled card is an Epic or higher.	6	8	105.webp
+Space Explorer	Legendary	Journey beyond. Gain 30 points and draw three cards. Gain 10 defense if any drawn card is a Legendary.	8	7	106.webp
+Muhammad	Legendary	Prophetic wisdom. Swap one card with your opponent and gain 25 points. Gain 10 defense if the swapped card has higher defense.	6	8	107.webp
+Beijing Tourist	Common	Cultural immersion. Gain 10 points if you play an Asia-related card next. Gain 3 defense if it’s Rare or higher.	6	5	108.webp
+Moscow Tourist	Common	Explore the Red Square. Gain 10 points and draw an additional card. Gain 3 defense if the new card is Epic or higher.	8	4	109.webp
+Amsterdam Tourist	Common	Canal adventure. Gain 10 points if you play a water-related card next. Gain 3 defense if the next card has 5 or more defense.	6	5	110.webp
+Buenos Aires Tourist	Common	Tango in the streets. Gain 10 points if you play a dance-related card next. Gain 3 defense if the card is Rare or higher.	6	4	111.webp
+Vietnam Tourist	Common	War-torn history. Gain 10 points for every war-related card in play. Gain 3 defense if more than two match.	6	6	112.webp
+Mexico Tourist	Common	Explore the ruins. Gain 10 points if you play an ancient civilization card next. Gain 3 defense if it’s Epic or higher.	6	4	113.webp
+Vietnam War	Epic	Guerrilla tactics. Remove one of your opponent's cards from play permanently. Gain 5 defense if the card was Rare or higher.	6	7	114.webp
+Ukrainian War	Rare	Defend the homeland. Gain 20 points and block your opponent's next move. Gain 5 defense if the block is successful.	6	8	115.webp
+Chile Tourist	Common	Andes adventure. Gain 10 points if you play a mountain-related card next. Gain 3 defense if it’s Rare or higher.	6	4	116.webp
+Galapagos Tourist	Common	Nature's wonders. Gain 10 points if you play an animal-related card next. Gain 3 defense if the next card is an Epic or higher.	6	5	117.webp
+Construction Builder	Common	Build the future. Gain 10 points and draw an additional card. Gain 3 defense if the card is a Rare or higher.	8	4	118.webp
+Free Climber	Rare	Defy gravity. Gain 20 points and block your opponent's next move. Gain 5 defense if the block succeeds.	6	7	119.webp
+Skydiver	Uncommon	Leap of faith. Gain 15 points and draw an additional card. Gain 3 defense if the new card has more than 5 defense.	5	6	120.webp
+Rio De Janeiro Tourist	Common	Carnival spirit. Gain 10 points if you play a music-related card next. Gain 3 defense if the next card is Rare or higher.	6	5	121.webp
+Rolex Collector	Rare	Time is money. Gain 20 points and prevent your opponent from drawing a new card. Gain 5 defense if the prevention is successful.	8	7	122.webp
+Relaxing Italian Countryside	Common	La dolce vita. Gain 10 points and draw an additional card. Gain 3 defense if the new card is Rare or higher.	8	4	123.webp
+Thailand Tourist	Common	Tropical paradise. Gain 10 points if you play a beach-related card next. Gain 3 defense if it’s an Epic or higher.	6	4	124.webp
+Dante's Inferno	Legendary	Journey through hell. Remove one of your opponent's cards permanently. Gain 10 defense if the card was an Epic or higher.	6	7	125.webp
+High Stakes Player	Epic	Gamble everything. Double your points, but lose half if you lose the next round. Gain 5 defense if you win the gamble.	10	6	126.webp
+Poorest in the World	Rare	Nothing to lose. Draw two additional cards but lose 10 points. Gain 5 defense if both cards are Rare or higher.	8	7	127.webp
+Moses Cappuccino	Legendary	Part the waters. Swap one of your cards with any card from the discard pile. Gain 10 defense if the new card is Epic or higher.	9	8	128.webp
+Spartan Warrior	Epic	Hold the line. Gain 25 points and block your opponent's next two moves. Gain 5 defense if both blocks are successful.	6	9	129.webp
+Skateboarder	Common	Trick master. Gain 10 points and draw one additional card. Gain 3 defense if the new card is Rare or higher.	8	4	130.webp
+Drum Lord	Uncommon	Force your opponent to reveal their entire hand. If they have no cards left, gain 5 defense.	6	7	131.webp
+Skylining	Rare	High altitude. Gain 20 points and block your opponent's next move. Gain 5 defense if the opponent's next card is blocked.	6	7	132.webp
+Tesla Roadster	Rare	Electric speed. Gain 20 points and draw one additional card. Gain 5 defense if the new card has more than 8 defense.	8	6	133.webp
+Sports Car Pilot	Common	Fast and furious. Gain 15 points if you play another vehicle-related card next. Gain 3 defense if the card is Rare or higher.	6	5	134.webp
+Drowning in Gems	Epic	Wealth overload. Gain 25 points but lose your next turn. Gain 5 defense if the opponent cannot capitalize on your lost turn.	6	9	135.webp
+The Butcher	Common	Cut to the chase. Gain 10 points and discard one of your opponent's cards. Gain 3 defense if the card has lower defense than 5.	9	6	136.webp
+Innsbruck Tourist	Common	Alpine adventure. Gain 10 points if you play a winter-related card next. Gain 3 defense if the card is Rare or higher.	6	4	137.webp
+Las Vegas Trip	Rare	All in. Double your points, but lose half if you lose the next round. Gain 5 defense if you win the round.	10	7	138.webp
+The Sheep Herd Disguise	Uncommon	Blend in. Avoid any attacks from your opponent for one turn. Gain 5 defense if no attacks happen.	4	8	139.webp
+Olympic Pole Vaulter	Rare	Reach new heights. Gain 20 points and block your opponent's next move. Gain 5 defense if the block is successful.	6	7	140.webp
+Street Break Dancer	Common	Street style. Gain 10 points and draw one additional card. Gain 3 defense if the new card is Rare or higher.	8	4	141.webp
+Priestess of a Greek God	Epic	Divine intervention. Swap one of your cards with any card from the discard pile. Gain 5 defense if the new card is Legendary.	9	7	142.webp
+Ulisses	Legendary	Heroic journey. Draw two cards and gain 25 points. Gain 10 defense if both cards are Rare or higher.	8	8	143.webp
+Food Delivery Bike	Common	Fast service. Gain 10 points if you play a food-related card next. Gain 3 defense if the next card is Rare or higher.	6	5	144.webp
+New York Taxi Driver	Common	Navigate the chaos. Gain 10 points and block an opponent's next move. Gain 3 defense if the block succeeds.	6	4	145.webp
+Her Majesty the Queen	Legendary	Royal decree. Gain 30 points and swap one of your cards with an opponent's. Gain 10 defense if the new card is Epic or higher.	6	8	146.webp
+High Fashion Model	Epic	Catwalk queen. Gain 25 points and prevent your opponent from drawing new cards for one turn. Gain 5 defense if they fail to draw.	8	7	147.webp
+Dish Washer	Common	Clean slate. Gain 10 points and discard one of your opponent's cards. Gain 3 defense if the discarded card is weaker.	9	5	148.webp
+Farmer	Common	Harvest time. Gain 10 points if you play a nature-related card next. Gain 3 defense if the card is Rare or higher.	6	4	149.webp
+Construction Worker	Common	Build the future. Gain 10 points and draw one additional card. Gain 3 defense if the card is Epic or higher.	8	5	150.webp
+Window Cleaner	Common	Clear vision. Gain 10 points and reveal one of your opponent's cards. Gain 3 defense if their revealed card is weaker.	9	4	151.webp
+Hot Dog Man	Common	Street food hero. Gain 10 points if you play a food-related card next. Gain 3 defense if the card is a Rare or higher.	6	4	152.webp
+Website Developer	Common	Code master. Gain 10 points and draw one additional card. Gain 3 defense if the new card is technology-themed.	8	5	153.webp
+Kebab Chef	Common	Middle Eastern delight. Gain 10 points if you play a food-related card next. Gain 3 defense if the card is Epic or higher.	6	4	154.webp
+Ramen Cook	Common	Japanese flavor. Gain 10 points if you play an Asia-related card next. Gain 3 defense if it’s a Rare card.	6	5	155.webp
+Egyptian Cab Driver	Common	Navigate the pyramids. Gain 10 points if you play a history-related card next. Gain 3 defense if the card is Epic or higher.	6	4	156.webp
+Gorilla Wildlife Protection	Epic	Endangered species. Gain 25 points and protect one of your cards from being removed. Gain 5 defense if the protected card is Rare or higher.	6	8	157.webp
+Sewage Plumber	Common	Fix the pipes. Gain 10 points and discard one of your opponent's cards. Gain 3 defense if the discarded card is weaker.	9	4	158.webp
+Hindu Worshipper	Rare	Spiritual connection. Gain 20 points and draw one additional card. Gain 5 defense if the new card is Epic or higher.	8	7	159.webp
+The Bishop	Rare	Clerical authority. Gain 20 points and block your opponent's next move. Gain 5 defense if the block is successful.	6	8	160.webp
+Islamic Singer	Common	Call to prayer. Gain 10 points and draw one additional card. Gain 3 defense if the new card is a Rare or higher.	8	4	161.webp
+The Base of Life	Epic	Foundational structure. Gain 25 points and protect one of your cards from being removed. Gain 5 defense if the protected card is Epic or higher.	6	7	162.webp
+Jewish Priest	Rare	Ancient tradition. Gain 20 points and block your opponent's next move. Gain 5 defense if the block succeeds.	6	8	163.webp
+Native American Ghost Whisperer	Epic	Spirit guide. Gain 25 points and draw one additional card. Gain 5 defense if the new card is a Legendary.	8	7	164.webp
+Buddhist Golden Boy	Rare	Enlightened path. Gain 20 points and prevent your opponent from drawing new cards for one turn. Gain 5 defense if they fail to draw.	8	6	165.webp
+Amazon Devastation	Legendary	Ravaged land. Remove one of your opponent's cards from play permanently. Gain 10 defense if the card was Epic or higher.	6	9	166.webp
+Colombian Narcos	Rare	Drug lord. Gain 20 points and block your opponent's next move. Gain 5 defense if the block is successful.	6	7	167.webp
+Child Miner	Common	Dangerous work. Gain 10 points but lose your next turn. Gain 3 defense if the total defense of your hand is higher than 15.	6	5	168.webp
+Diamond Trader	Rare	Wealth and power. Gain 20 points and draw one additional card. Gain 5 defense if the new card is Rare or higher.	8	7	169.webp
+Weapon Trader	Epic	Arms dealer. Gain 25 points and block your opponent's next move. Gain 5 defense if the block is successful.	6	8	170.webp
+Solar Installation	Rare	Renewable energy. Gain 20 points and protect one of your cards from being removed. Gain 5 defense if the protected card is Rare or higher.	6	7	171.webp
+Painter in Paris	Rare	Artistic inspiration. Gain 20 points and draw one additional card. Gain 5 defense if the new card is a Rare or higher.	8	6	172.webp
+Torero	Rare	Bullfighter's courage. Gain 20 points and block your opponent's next move. Gain 5 defense if the block succeeds.	6	7	173.webp
+Assembly Line Worker	Common	Precision and repetition. Gain 10 points and draw one additional card. Gain 3 defense if the new card has 6 or more defense.	8	4	174.webp
+Semiconductor Engineer	Rare	Tech genius. Gain 20 points and protect one of your cards from being removed. Gain 5 defense if the protected card is Rare or higher.	6	7	175.webp
+Leather Worker	Common	Add +2 durability to one of your items, making it harder for opponents to destroy. Gain 3 defense if the item is used.	6	5	176.webp
+Textile Worker	Common	Can repair one damaged item, restoring it to full power. Gain 3 defense if the repair succeeds.	6	4	177.webp
+High End Car Seller	Rare	Increase your wealth by 5 points. Gain additional 2 points for every luxury card in play. Gain 5 defense if there are more than two.	6	6	178.webp
+Helicopter Pilot	Rare	Move one of your cards to a different position in the lineup, gaining a strategic advantage. Gain 5 defense if the card is an Epic or higher.	6	7	179.webp
+Sherpa	Rare	Decrease the stamina of an opponent's card by half, making it less effective. Gain 5 defense if their defense drops below 5.	6	8	180.webp
+Football Speaker	Common	Gain one additional action point during your next turn. Gain 3 defense if you use that action point effectively.	6	5	181.webp
+TV Cameraman	Common	Reveal an opponent's hidden card and expose its power. Gain 3 defense if the revealed card has less than 5 defense.	9	4	182.webp
+Spanish Meteorologist	Uncommon	Change the weather conditions in the game, affecting all players' abilities for one round. Gain 5 defense if you gain the upper hand.	4	6	183.webp
+TV Anchorman	Rare	Increase your influence by spreading fake news, causing one of your opponent's cards to lose its power for a turn. Gain 5 defense if the card is a Rare or higher.	6	7	184.webp
+Poor Old Fart	Common	Draw one card from the deck, potentially gaining a small advantage. Gain 3 defense if the card has higher defense than 5.	8	4	185.webp
+IRA Terrorist	Epic	Deal 3 damage to an opponent’s defense, breaking through any barriers. Gain 5 defense if the damage is successful.	6	8	186.webp
+Airline Stewardess	Common	Heal one of your cards by providing in-flight services, restoring its full power. Gain 3 defense if the card is restored to full.	6	4	187.webp
+The Poacher	Rare	Capture one of your opponent's rare cards and use it for your own gain. Gain 5 defense if the captured card is Epic or higher.	6	7	188.webp
+Crane Driver	Common	Rearrange your cards, placing the strongest at the front to defend against attacks. Gain 3 defense if the strategy works.	6	4	189.webp
+Roughneck	Uncommon	Increase your card's strength by 2 for every turn it remains in play. Gain 5 defense if it stays for more than two turns.	4	7	190.webp
+House Plumber	Common	Fix one malfunction in your hand, restoring its usability. Gain 3 defense if the malfunction is fixed successfully.	6	5	191.webp
+Mommy with the Kids	Common	Distract your opponent, reducing their effectiveness by 2 for the next round. Gain 3 defense if the distraction succeeds.	6	4	192.webp
+Pension FTW	Uncommon	Gain a small, steady income of 5 points per turn for the duration of the game. Gain 3 defense if you accumulate more than 20 points.	4	7	193.webp
+Climate Change	Rare	Alter the game environment, weakening all cards in play by 1. Gain 5 defense if your cards have higher defense.	6	6	194.webp
+UFO Spotter	Rare	Call in alien assistance, gaining a mysterious power-up for your cards. Gain 5 defense if the power-up successfully boosts a card's power.	6	7	195.webp
+Space X	Epic	Launch your cards into orbit, avoiding damage for one full round. Gain 5 defense if no cards are damaged.	6	8	196.webp
+Traffic Light Beggar	Common	Gain 5 points from each opponent as a form of small charity. Gain 3 defense if the total points exceed 15.	6	5	197.webp
+Bitcoin LSD	Rare	Cause an opponent’s card to hallucinate, making it useless for one round. Gain 5 defense if their next card also has less than 5 power.	6	6	198.webp
+Apple Farmer	Common	Harvest apples and gain 5 points every three turns. Gain 3 defense if you gain more than 15 points.	6	4	199.webp
+Pac Farmer	Uncommon	Pac your cards with extra energy, giving them a 2-point power boost for two turns. Gain 5 defense if a card wins using the boost.	4	7	200.webp
+High Voltage Climber	Rare	Boost your card's energy, allowing it to overpower opponents' defenses by 2. Gain 5 defense if the overpower is successful.	6	6	201.webp
+New Year’s Eve	Uncommon	Celebrate by doubling your points for one turn. Gain 5 defense if your total points surpass the opponent's.	4	6	202.webp
+Weed Factory	Uncommon	Calm your opponent's strongest card, reducing its power by 3. Gain 5 defense if their card's power falls below 5.	4	7	203.webp
+Cyberpunk	Rare	Hack into the game system, gaining access to one of your opponent's abilities. Gain 5 defense if the ability is successfully used.	6	8	204.webp
+Blade Runner	Rare	Cut through defenses, dealing 4 damage to an opponent's card. Gain 5 defense if the damage brings their defense below 5.	6	7	205.webp
+Poker Player	Rare	Bluff your opponent into revealing their strategy, giving you the upper hand for the next turn. Gain 5 defense if their revealed card is weaker.	9	6	206.webp
+Gang Shootout	Epic	Engage in a shootout, dealing 2 damage to all opponent's cards in play. Gain 5 defense if more than two cards are damaged.	6	8	207.webp
+Field Care Pilot	Rare	Fly to the rescue, healing one of your cards to full power. Gain 5 defense if the healed card is Epic or higher.	6	7	208.webp
+Mobile Reseller	Common	Sell outdated tech to gain a small profit of 5 points per turn. Gain 3 defense if you accumulate more than 15 points.	6	4	209.webp
+Proximity Skydiver	Epic	Soar close to the ground, avoiding an opponent's attack entirely for one round. Gain 5 defense if the opponent's attack fails.	6	8	210.webp
+Swordsmith	Rare	Forge a powerful weapon, boosting the attack power of one card by 3. Gain 5 defense if the card wins the next battle.	6	7	211.webp
+Circus Juggler	Common	Confuse your opponents by shuffling their cards, disrupting their strategy. Gain 3 defense if their next move is ineffective.	6	4	212.webp
+Street Magician	Rare	Perform a card trick to switch one of your cards with an opponent's for one turn. Gain 5 defense if the switch results in a win.	6	7	213.webp
+Dog Park	Common	Relax and recharge. Heal one of your cards by 2 points. Gain 3 defense if the card's defense exceeds 5 after healing.	6	4	214.webp
+Russian Fighter Pilot	Epic	Launch a precision strike, reducing an opponent's defense by 4. Gain 5 defense if their defense is reduced to 0.	6	8	215.webp
+Hood Pimp	Rare	Control the streets, gaining an extra turn if you defeat an opponent's card. Gain 5 defense if the extra turn is effective.	6	6	216.webp
+Fruit Seller in Baghdad	Common	Gain small, steady profits of 5 points per turn by selling fruit. Gain 3 defense if you gain more than 15 points.	6	5	217.webp
+Ice Cream Van Worker	Common	Cool down the game, reducing the power of all cards in play by 1 for one turn. Gain 3 defense if your cards have higher power.	6	4	218.webp
+UAE	Rare	Tap into oil wealth, gaining 20 points instantly. Gain 5 defense if your points exceed your opponent's after the gain.	6	7	219.webp
+Indian Prince	Rare	Command respect. Opponent must skip their next turn. Gain 5 defense if their skipped card has a power higher than 8.	6	7	220.webp
+Eskimo	Common	Freeze one of your opponent’s cards, rendering it useless for one turn. Gain 3 defense if their card's power is higher than 8.	6	4	221.webp
+Fisherman	Common	Catch a big one. Gain an extra draw on your next turn. Gain 3 defense if the drawn card is Rare or higher.	8	5	222.webp
+Frog Society	Legendary	Summon a council of frogs, gaining control of the game's environment for one full turn. Gain 10 defense if no cards are affected by the environment change.	6	8	223.webp
+Meme	Rare	Spread like wildfire, copying the power of an opponent's card. Gain 5 defense if the copied card has higher power.	6	6	224.webp
+Rafting Guide	Rare	Navigate through rough waters. Avoid damage for one round. Gain 5 defense if no cards are damaged.	6	7	225.webp
+Graduate at Harvard	Rare	Gain knowledge. Draw two additional cards from the deck. Gain 5 defense if both cards are Rare or higher.	8	6	226.webp
+Tennis Player	Rare	Serve an ace. Skip your opponent’s turn. Gain 5 defense if the opponent’s next card has more than 5 power.	6	7	227.webp
+Professor in Oxford	Rare	Lecture an opponent, reducing their effectiveness by 2 for one round. Gain 5 defense if their effectiveness drops below 3.	6	6	228.webp
+Albert Einstein	Legendary	Unlock the secrets of the universe. Draw three additional cards and double the power of one card in play. Gain 10 defense if the card’s power exceeds 20.	8	7	229.webp
+Lenin	Epic	Lead a revolution. Force your opponent to discard their highest power card. Gain 5 defense if the discarded card had more than 8 power.	9	8	230.webp
+Dante Alighieri	Epic	Journey through the Divine Comedy. Choose a card from the discard pile and return it to your hand. Gain 5 defense if the card is Epic or higher.	9	7	231.webp
+Napoleon Bonaparte	Legendary	Conquer your enemies. Double the attack power of one card for one turn. Gain 10 defense if the attack succeeds.	10	9	232.webp
+Enrico Fermi	Rare	Split the atom. Deal 3 damage to an opponent's card and draw an additional card. Gain 5 defense if the drawn card is Rare or higher.	8	6	233.webp
+Rap God	Rare	Spit a verse that silences an opponent's card, preventing it from being played for one turn. Gain 5 defense if the card has 8 power or more.	6	6	234.webp
+Hostess on a Plane	Common	Serve refreshments. Heal one of your cards by 2 points. Gain 3 defense if the healed card's defense is higher than 6.	6	4	235.webp
+Red Carpet	Rare	Walk the red carpet. Gain 10 points for every high-profile card in play. Gain 5 defense if there are more than two high-profile cards.	6	6	236.webp
+Fish Factory Japan	Common	Process fish efficiently. Gain 5 points per turn for the next three turns. Gain 3 defense if the total points exceed 15.	6	4	237.webp
+Australian Bloke	Common	Survive the outback. Avoid damage for one turn. Gain 3 defense if your card's defense is higher than 5.	6	4	238.webp
+The Playboy	Rare	Charm your opponents. Choose one card from their hand to be discarded. Gain 5 defense if the discarded card has more than 8 power.	9	7	239.webp
+Pipeline Welder	Uncommon	Seal the deal. Prevent any damage to your cards for one turn. Gain 5 defense if the prevention is successful.	4	6	240.webp
+Emergency Doctor	Rare	Save a life. Fully heal one of your cards. Gain 5 defense if the healed card has more than 6 defense.	6	7	241.webp
+Surgeon	Rare	Perform surgery. Increase the power of one card by 2 permanently. Gain 5 defense if the card's power exceeds 10 after surgery.	6	6	242.webp
+Newborn Nurse	Common	Care for the young. Heal one of your cards by 2 points. Gain 3 defense if the healed card has more than 5 defense after healing.	6	4	243.webp
+Heavy Machinery Operator	Common	Clear the path. Destroy one obstacle in play, clearing the way for your next move. Gain 3 defense if no obstacles remain.	6	5	244.webp
+New York Street Performer	Common	Entertain the crowd. Gain 5 points for every turn this card remains in play. Gain 3 defense if it stays for more than two turns.	6	4	245.webp
+Firefighter	Rare	Extinguish the flames. Remove any negative effects from one of your cards. Gain 5 defense if the negative effect is removed successfully.	6	6	246.webp
+Train Conductor	Common	Keep the train on track. Prevent your opponent from altering the order of their cards for one turn. Gain 3 defense if their strategy fails.	6	4	247.webp
+Veterinarian	Common	Heal the animals. Restore one animal-themed card to full power. Gain 3 defense if the card's defense is more than 6 after healing.	6	5	248.webp
+Bus Driver	Common	Stay on schedule. Ensure your next card is played immediately after drawing. Gain 3 defense if your next card wins the round.	8	4	249.webp
+European Farmer	Common	Harvest the fields. Gain 5 points for every turn this card is in play. Gain 3 defense if you gain more than 15 points.	6	4	250.webp
+RDJ	Legendary	Charisma boost. All cards in your hand gain +1 power for the next three turns. Gain 10 defense if your total power exceeds your opponent's.	6	8	251.webp
+Healthcare Provider	Common	Provide care. Heal one of your cards by 2 points. Gain 3 defense if the card's defense is more than 6 after healing.	6	4	252.webp
+Software Developer	Uncommon	Write code. Gain 5 points and double the effect of one technology-themed card. Gain 5 defense if the effect leads to a win.	7	6	253.webp
+Disaster Recovery	Rare	Restore the balance. Return one card from the discard pile to your hand. Gain 5 defense if the card is Rare or higher.	9	7	254.webp
+Engineering	Rare	Build a strong foundation. Increase the defense of all your cards by 2 for the next two turns. Gain 5 defense if the increase prevents damage.	6	7	255.webp
+Guitarist	Common	Strum the strings. Gain 5 points for every turn this card remains in play. Gain 3 defense if you gain more than 15 points.	6	4	256.webp
+Vegan Chef	Common	Prepare a healthy meal. Heal one of your cards by 2 points. Gain 3 defense if the healed card is stronger than the opponent's next card.	6	4	257.webp
+Devil Fruit	Legendary	Consume the fruit. Double the power of one card, but it can no longer be used after three turns. Gain 10 defense if the card wins two rounds.	10	7	258.webp
+Mc Worker	Common	Flip burgers. Gain 5 points for every turn this card remains in play. Gain 3 defense if it remains for more than two turns.	6	4	259.webp
+Furniture Builder	Common	Craft a sturdy piece. Increase the defense of one card by 2 points. Gain 3 defense if the card's defense exceeds 8.	6	5	260.webp
+The Penguin	Rare	Slide into action. Choose an opponent's card to freeze for one turn. Gain 5 defense if the frozen card is Rare or higher.	6	6	261.webp
+Batman	Legendary	Strike from the shadows. Deal 3 damage to an opponent's card and gain an extra turn. Gain 10 defense if the extra turn results in a win.	6	8	262.webp
+Karen Getting Arrested	Uncommon	Cause a scene. Force your opponent to discard one card. Gain 5 defense if the discarded card has higher power than 8.	6	7	263.webp
+Water Carrier	Common	Quench the thirst. Heal one of your cards by 2 points. Gain 3 defense if the healed card's defense is more than 6.	6	4	264.webp
+Safari	Rare	Track your prey. Reveal one of your opponent's hidden cards and reduce its power by 2. Gain 5 defense if the revealed card is Epic or higher.	9	7	265.webp

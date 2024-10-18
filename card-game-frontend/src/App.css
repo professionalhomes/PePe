@@ -1,0 +1,112 @@
+/* App container with full screen, flexbox centering, and background image */
+.App {
+  position: relative; /* Allow positioning of child elements */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  text-align: center;
+  background-image: url('./images/background.webp'); /* Ensure this path is correct */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 20px;
+  box-sizing: border-box; /* Ensure padding doesn't affect the width */
+  gap: 20px; /* Adds spacing between boxes */
+}
+
+.account-pill {
+  background: linear-gradient(145deg, #016f06, #01b006); /* Gradient for 3D effect */
+  color: white;
+  padding: 10px 20px;
+  border-radius: 20px; /* Rounded corners for pill shape */
+  font-size: 14px;
+  font-weight: bold;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 
+    0 4px 6px rgba(0, 0, 0, 0.8),  /* Main shadow for depth */
+    inset 0 2px 4px rgba(255, 255, 255, 0.3); /* Inset shadow for light effect */
+  text-shadow: none; /* Remove text shadow for clarity */
+  border: 1px solid rgba(255, 255, 255, 0.2); /* Light border to enhance 3D effect */
+  transition: transform 0.2s ease; /* Smooth transition for interactions */
+}
+
+.account-pill:hover {
+  transform: translateY(-2px); /* Slight lift effect on hover */
+  box-shadow: 
+    0 6px 8px rgba(0, 0, 0, 0.3), /* Enhanced shadow on hover */
+    inset 0 1px 3px rgba(255, 255, 255, 0.4); /* Stronger inset effect */
+}
+
+.app-logo {
+  width: 80px; /* Set the desired width */
+  height: 80px; /* Set the desired height */
+  background-image: url('./images/logo.webp'); /* URL to your logo image */
+  background-size: contain; /* Ensure the image scales appropriately */
+  background-repeat: no-repeat; /* Prevent the image from repeating */
+  margin: 5px; /* Space around the logo */
+}
+/* Common box style */
+.box {
+  background: rgba(248, 222, 166, 0.7); /* White with transparency for readability */
+  border-radius: 15px; /* Rounded corners */
+  padding: 10px;
+  width: 50%; /* Adjust width as needed */
+  max-width: 600px; /* Constrain width on larger screens */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow effect */
+  border: 1px solid #e0e0e0; /* Light border for distinction */
+  margin: 0 auto; /* Center the boxes */
+}
+
+/* Header Style */
+h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #ffffff; /* Darker text for contrast */
+  text-shadow: 
+        -1px -1px 0 #000,  
+         1px -1px 0 #000,
+        -1px  1px 0 #000,
+         1px  1px 0 #000;  /* Creates a black stroke around the text */
+}
+
+/* Text Styles */
+p {
+  color: #ffffff; /* Medium contrast for text */
+  margin: 0; /* Remove default margins */
+  text-shadow: 
+        -1px -1px 0 #000,  
+         1px -1px 0 #000,
+        -1px  1px 0 #000,
+         1px  1px 0 #000;  /* Creates a black stroke around the text */
+}
+
+/* Button Styling */
+button {
+  background: linear-gradient(145deg, #016f06, #01b006);  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 10px auto; /* Center the button */
+  cursor: pointer;
+  border-radius: 20px; /* Rounded corners */
+  box-shadow: 
+    0 4px 6px rgba(0, 0, 0, 0.8),  /* Main shadow for depth */
+    inset 0 2px 4px rgba(255, 255, 255, 0.3); /* Inset shadow for light effect */
+  text-shadow: none; /* Remove text shadow for clarity */
+  border: 1px solid rgba(255, 255, 255, 0.2); /* Light border to enhance 3D effect */
+  transition: transform 0.2s ease; /* Smooth transition for interactions */
+}
+
+button:hover {
+    transform: translateY(-2px); /* Slight lift effect on hover */
+    box-shadow: 
+      0 6px 8px rgba(0, 0, 0, 0.3), /* Enhanced shadow on hover */
+      inset 0 1px 3px rgba(255, 255, 255, 0.4); /* Stronger inset effect */
+  }
